@@ -1,0 +1,5 @@
+{
+   "model": "ollama",
+   "prompt": "What\'s the formula for energy?",
+   "temperature": 0.0
+}

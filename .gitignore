@@ -164,7 +164,7 @@ cython_debug/
 week*/Data/*
 #week2/artifacts/*
 #week2/mlruns/*
-week2/output/*
+02-open-source/ollama_files/*
 
 week4/*/output/*
 
